@@ -5,3 +5,10 @@ body{
 .navbar_area{
     background:#ffffff2c;
 }
+.logo{
+    width: 30%;
+}
+.btn-resume{
+    background: linear-gradient(45deg,cyan,magenta);
+    padding: 8px 15px !important;
+}
